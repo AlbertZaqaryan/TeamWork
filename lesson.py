@@ -1,1 +1,1 @@
-print('Artur xangarich (SHAHAGORCOX)')
+print('I Love Sevan!!!')
